@@ -1,0 +1,16 @@
+.TaskItem {
+  padding: 0.5rem;
+  box-shadow: 0px 0px 5px 0px #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+.TaskItem + .TaskItem {
+  margin-top: 1rem;
+}
+.TaskItem .actions button {
+  background: none;
+  border: 0;
+}
+.TaskItem .update-input {
+  width: 70%;
+}

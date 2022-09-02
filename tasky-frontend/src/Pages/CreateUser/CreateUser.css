@@ -1,0 +1,18 @@
+.CreateUser {
+  padding: 1rem;
+  width: 40%;
+  margin: 0 auto;
+}
+.CreateUser input {
+  margin-right: 1rem;
+}
+.CreateUser .btn,
+.CreateUser .form-group {
+  display: block;
+  margin: 1rem 0;
+}
+.CreateUser label {
+  margin-right: 0.5rem;
+  min-width: 100px;
+  display: inline-block;
+}

@@ -1,0 +1,10 @@
+.AddTask {
+    margin: 3rem auto;
+    width: 50%;
+}
+.AddTask .task-name {
+    width: 50%;
+}
+.task-list ul{
+    list-style: none;
+}

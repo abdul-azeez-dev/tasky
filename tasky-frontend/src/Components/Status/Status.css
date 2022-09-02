@@ -1,0 +1,13 @@
+.Status {
+  margin-right: 1rem;
+  padding: 0.25rem;
+}
+.Status.New {
+  background: #00ffff;
+}
+.Status.In-Progress {
+  background: #ffff00;
+}
+.Status.Done {
+  background: #99ff99;
+}

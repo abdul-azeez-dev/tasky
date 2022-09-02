@@ -1,0 +1,18 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  background: #5c92e4;
+  padding: 1rem;
+}
+.Header .logout {
+  background: #f00;
+  color: #fff;
+}
+.Header .user-name {
+  padding: 0.5rem;
+  color: #fff;
+}
+.Header nav a {
+  color: #fff;
+  margin-right: 1rem;
+}

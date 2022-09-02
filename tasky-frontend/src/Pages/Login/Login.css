@@ -1,0 +1,13 @@
+.Login{
+    width: 30%;
+    padding: 1rem;
+    margin: 1rem auto;
+    border: 1px solid #ccc;
+}
+.Login label, .Login button{
+    display: block;
+    margin: 1rem 0;
+}
+.Login input{
+    width: 90%;
+}
